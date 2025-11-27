@@ -21,7 +21,8 @@
 
 
 // // Qno 3
-// var Safety = prompt("Driving Karte hue Safety Bike and Car \nCar Safety , Seatbelt , Speed limits \nBike Safety Helmet");
+// var Safety = prompt("Driving Karte hue Safety Bike and Car
+//\nCar Safety , Seatbelt , Speed limits \nBike Safety Helmet");
 
 // if ( Safety.toLowerCase() === "seatbelt" ) {
 //     console.log("Always wear your sealtbelt before driving")    
